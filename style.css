@@ -7,7 +7,7 @@
 body {
     height: 100vh;
     font-family: 'Kalam', cursive;
-    background-image: url(./image/bg-ing.jpg);
+    background-image: url(./image/Leap-Year-bg-img.JPG);
     background-size: cover;
     background-position: bottom;
 }
@@ -34,7 +34,7 @@ body {
     gap: 20px;
     flex-direction: column;
     height: 50%;
-    transform: translateY(-140px);
+    transform: translateY(-40px);
     text-align: center;
 }
 
